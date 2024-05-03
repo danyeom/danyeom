@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Dan. I'm the Lab Manager of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab), Melbourne School of Psychological Sciences. 
+
+I'm still learning how to use GitHub so this is a WIP.
 <!--
 **danyeom/danyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
