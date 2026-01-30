@@ -1,6 +1,6 @@
 ### Kia ora!
 
-I'm Dan. I'm the Lab Manager of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab), Melbourne School of Psychological Sciences. I also recently completed my PhD in behavioural genetics in the lab.
+I'm Dan. I'm a member of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab), Melbourne School of Psychological Sciences. I also recently completed my PhD in behavioural genetics in the lab.
 
 - 🎶 my areas: music science, behavioural genetics, phenotyping
 - 🧬 currently working on genetic and environmental influences on musicality
@@ -8,7 +8,7 @@ I'm Dan. I'm the Lab Manager of the [Clinical and Music Neuroscience Lab](https:
 - 🌱 I’m currently learning how to use Git/GitHub among many other things, so everything you see here is a WIP!
 - 📫 no academia-related socials, but here's my [orcid](https://orcid.org/0000-0002-1281-6299), [researchgate](https://www.researchgate.net/profile/Daniel-Yeom) and [google scholar](https://scholar.google.com.au/citations?user=zvYEfOwAAAAJ&hl=en)
 - 🎸 played guitar and bass in a past life (pre-PhD)
-- ⌨️ recently gotten into building mechanical keyboards
+- ⌨️ recently gotten into building mechanical keyboards (my most expensive so far is a Zoom TKL)
 
 
 <!--
