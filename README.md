@@ -1,6 +1,6 @@
 ### Kia ora!
 
-I'm Dan. I'm a member of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab), Melbourne School of Psychological Sciences. I also recently completed my PhD in behavioural genetics in the lab.
+I'm Dan. I'm an Associate Lecturer in music psychology in the Melbourne Conservatorium of Music, University of Melbourne. I'm also a member of the [Clinical and Music Neuroscience Lab](https://psychologicalsciences.unimelb.edu.au/research/clinical-and-music-neuroscience-lab), Melbourne School of Psychological Sciences. I completed my PhD in behavioural genetics in the lab.
 
 - 🎶 my areas: music science, behavioural genetics, phenotyping
 - 🧬 currently working on genetic and environmental influences on musicality
